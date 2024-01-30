@@ -107,7 +107,7 @@ author:
   name             : "heeseok"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "끄적 끄적,,"
-  location         : "Somewhere"
+  # location         : ""
   email            :
   links:
     - label: "Email"
