@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "ko-KR"
 title                    : "\\\\( ꙭ̱)//"
-title_separator          : "-"
+title_separator          : "|"
 subtitle                 : "끄적,, 공부기록,,"
 name                     : "\\\\( ꙭ̱)//"
 description              : "An amazing website."
