@@ -129,9 +129,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/OOixn"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   # url:
 
 
 # Reading Files
